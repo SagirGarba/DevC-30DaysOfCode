@@ -1,7 +1,7 @@
 
 
   $("#getting-started")
-  .countdown("2020/04/25", function(event) {
+  .countdown("2022/06/11", function(event) {
     $("#day").text(
       event.strftime('%D')
     );
@@ -20,7 +20,7 @@
   });
 
   $("#getting-starte")
-  .countdown("2020/05/25", function(event) {
+  .countdown("2022/06/11", function(event) {
     $("#day2").text(
       event.strftime('%D')
     );
