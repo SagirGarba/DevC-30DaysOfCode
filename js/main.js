@@ -1,7 +1,7 @@
 
 
   $("#getting-started")
-  .countdown("2022/06/11", function(event) {
+  .countdown("2022/07/16", function(event) {
     $("#day").text(
       event.strftime('%D')
     );
